@@ -4,7 +4,7 @@
 
 int main() {
     GameManager game;
-    game.Init(); // Инициализируем поле и корабли
+    game.Init(); 
 
     CommandProvider provider("commands.txt");
 
@@ -12,10 +12,8 @@ int main() {
     GameDisplay<ConsoleRenderer> display(renderer);
     GameController<CommandProvider> controller(game, provider, display);
 
-    // Отобразим поле один раз перед началом цикла ввода команд
     display.Update(game);
 
-    // Запускаем цикл обработки команд
     controller.Run();
 
     return 0;
