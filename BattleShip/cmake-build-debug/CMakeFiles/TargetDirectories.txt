@@ -1,0 +1,12 @@
+/Users/sofatitkova/Desktop/BattleShip/cmake-build-debug/CMakeFiles/BattleShip.dir
+/Users/sofatitkova/Desktop/BattleShip/cmake-build-debug/CMakeFiles/interface.dir
+/Users/sofatitkova/Desktop/BattleShip/cmake-build-debug/CMakeFiles/gamefield.dir
+/Users/sofatitkova/Desktop/BattleShip/cmake-build-debug/CMakeFiles/ship.dir
+/Users/sofatitkova/Desktop/BattleShip/cmake-build-debug/CMakeFiles/shipmgr.dir
+/Users/sofatitkova/Desktop/BattleShip/cmake-build-debug/CMakeFiles/abilitymgr.dir
+/Users/sofatitkova/Desktop/BattleShip/cmake-build-debug/CMakeFiles/expectation.dir
+/Users/sofatitkova/Desktop/BattleShip/cmake-build-debug/CMakeFiles/gamemgr.dir
+/Users/sofatitkova/Desktop/BattleShip/cmake-build-debug/CMakeFiles/enums.dir
+/Users/sofatitkova/Desktop/BattleShip/cmake-build-debug/CMakeFiles/gamestate.dir
+/Users/sofatitkova/Desktop/BattleShip/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sofatitkova/Desktop/BattleShip/cmake-build-debug/CMakeFiles/rebuild_cache.dir
