@@ -62,9 +62,6 @@ private:
             case GameCommand::EXIT:
                 running = false;
                 break;
-            case GameCommand::ATTACK:
-                std::cout << "ATTACK command received but not implemented.\n";
-                break;
             default:
                 std::cout << "Unknown command!" << std::endl;
                 break;
